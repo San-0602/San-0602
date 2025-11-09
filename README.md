@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hey, I’m San  
 
-<!--
-**San-0602/San-0602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 404: Sleep not found — but the code runs fine.  
 
-Here are some ideas to get you started:
+BCA student @ **Jain (Deemed-to-be University)**  
+Building things that shouldn’t work… but do.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### ⚙️ Tech Stack  
+**Languages & Frameworks:** Dart, Flutter, Python (Flask), JavaScript, Astro  
+**Databases:** MongoDB, SQL, Neo4j  
+**Design & Styling:** Tailwind CSS, HTML5, JSON  
+
+I like logic clean, UI cleaner, and error messages dramatic.
+
+
+
+### 🚀 What I’m Doing
+- Developing apps that mix **creativity and computation**  
+- Exploring **AI**, **Cloud**, and **Open-Source** ecosystems  
+- Turning caffeine into commits and chaos into structure  
+
+
+
+### 💬 Motto  
+> “Some build projects. I build problems until they become projects.”  
+
+
+
+### 🕶️ Currently  
+Working on something you’ll probably bookmark later.  
+
+📫 LinkedIn:www.linkedin.com/in/s-sandhya-648a62288 | [Portfolio — coming soon ⏳] | [Blog — 404: Sleep not found 💀]
