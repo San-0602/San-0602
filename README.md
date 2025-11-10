@@ -31,4 +31,4 @@ I like logic clean, UI cleaner, and error messages dramatic.
 ### 🕶️ Currently  
 Working on something you’ll probably bookmark later.  
 
-📫 LinkedIn:www.linkedin.com/in/s-sandhya-648a62288 | Portfolio — coming soon ⏳ | Blog — 404: Sleep not found 💀]
+📫 LinkedIn:www.linkedin.com/in/s-sandhya-648a62288 | Portfolio — coming soon ⏳ | Blog — 404: Sleep not found 💀
